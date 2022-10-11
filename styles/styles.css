@@ -33,7 +33,7 @@ body .card-wrapper {
   background: linear-gradient(to bottom, var(--dark-blue), var(--very-dark-blue));
 }
 body .card-wrapper .card {
-  padding: 1rem 0;
+  padding: 0;
 }
 body .card-wrapper .card .card-rating__stars {
   width: 100%;
@@ -102,7 +102,7 @@ body .card-wrapper .card .card-submit__button {
   width: 100%;
   background: var(--primary);
   border-radius: 2rem;
-  padding: 1rem;
+  padding: 0.5rem 1rem;
   display: flex;
   justify-content: center;
   align-items: center;
